@@ -66,6 +66,10 @@ Pengambilan data dilakukan pada jam yang tertera untuk masing masing pasangan an
 
 * Masing-Masing anggota menghitung Motor atau Mobil silahkan rundingkan
 
+* Interval pengambilan data dalam satu jam adalah 10 menit. jadi setiap 10 menit catat jumlah mobil dan motor lalu reset   hitungan untuk interval 10 menit lagi hingga 60 menit berlangsung
+
+* Gunakan aplikasi counter yang tersedia di Apps Store 
+
 # Tabel Data dan Format File
 
 * Tabel data berisi seperti ini
