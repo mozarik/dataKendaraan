@@ -58,6 +58,9 @@ Pengambilan data dilakukan pada jam yang tertera untuk masing masing pasangan an
 
 * Pertigaan Tirto
 
+> ![perTirto](https://i.ibb.co/SQ3FTsr/U-je-B3-Wjwlqiw-Qzriy-VKy-Ec-PHHZud-Fg-Muz17-BQv-Jt9op-Zlxx-Fg-NVt3-Ix-Aae-Zsh-LDwvhtje-Nt3-BRDo-S-m-Wvq-Q7l4-Ok-BFVp-RAb0pqrt-po1h-WEG3n1-RXMZe-P7-Ef-Wsna9-PPxs-Ygxdc-Pq-Q01-ZNg-L3-U13fs-E2-Sw-KEk-Ri-Fo-Oy-Xfmizb-Qin8j-X-Lco-ZWRx-Gs-Au-V-CZDLlqc-Tg-T78l-SDC7-W15-SWGinw-Tmw-B9-TQp-Mpw-NEGl-Tan-I5-J1-Q5ea6-d-B2-WYn-Tz.jpg)
+
+
 > Metode
 
 * Hitung arah kendaraan yang berbelok ke arah **BATU**
