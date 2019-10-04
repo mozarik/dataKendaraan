@@ -1,12 +1,12 @@
 # Data Kendaraan Dari Arah Tirto (Keluar Tirto) Menuju Ke Arah Batu
 
-## Jadwal Anggota Kelompok V1.0
+## Jadwal Anggota Kelompok V1.2
 
 >> Jika Ingin merubah jadwal silahkan edit readme dibawah ini menggunakan akun GitHub anda.
 
 > **Jumat 4-Okt-2019**
 
-* Pagi (**Azmii dan Zein**)
+* Pagi (**Azmii dan Zein**) __**DONE**__
  * 07:00 - 8:00
 
 * Siang(**Azmii dan Zein**)
