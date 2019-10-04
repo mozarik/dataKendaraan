@@ -6,7 +6,7 @@
 
 > **Jumat 4-Okt-2019**
 
-* Pagi (**Azmii dan Zein**) __**DONE**__
+* ~~Pagi (**Azmii dan Zein**)~~ __**DONE**__
  * 07:00 - 8:00
 
 * Siang(**Azmii dan Zein**)
