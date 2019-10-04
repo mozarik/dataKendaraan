@@ -84,8 +84,8 @@ nanti dipindahkan ke excel
   Untuk format nama file nya 
   
 
-  * dd/mm/yyyy/jj-jj
-  * Contoh : 03/10/2019/07-08
+  * dd-mm-yyyy-jj.jj
+  * Contoh : 03-10-2019-07.08
 
 Disimpan dalam file excel berekstensi : _**.exls**_
 
