@@ -9,10 +9,10 @@
 * ~~Pagi (**Azmii dan Zein**)~~ __**DONE**__
  * 07:00 - 8:00
 
-* Siang(**Azmii dan Zein**)
+* ~~Siang(**Azmii dan Zein**)~~ **DONE**
  * 10:00 - 11:00
 
-* Sore (**Putera dan Fiqry**)
+* Sore (**Putera dan Fiqry**)~~
  * 16:00 - 17:00
 
 * Malam(**Putera dan Fiqry**)
