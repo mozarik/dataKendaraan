@@ -7,103 +7,103 @@
 > **Jumat 04-Okt-2019**
 
 * ~~Pagi (**Azmii dan Zein**)~~ __**DONE**__
- * 07:00 - 8:00
+  * 07:00 - 8:00
 
 * ~~Siang (**Azmii dan Zein**)~~ **DONE**
- * 10:00 - 11:00
+  * 10:00 - 11:00
 
 * ~~Sore (**Putera dan Fiqry**)~~ **DONE**
- * 16:00 - 17:00
+  * 16:00 - 17:00
 
 * ~~Malam (**Putera dan Fiqry**)~~ **DONE**
- * 18:00 - 19:00
+  * 18:00 - 19:00
 
  
 
 > **Sabtu 05-Okt-2019**
 
 * ~~Pagi (**Azmii dan Zein**)~~ **DONE**
- * 07:00 - 8:00
+  * 07:00 - 8:00
 
 * Siang (**Azmii dan Zein**)
- * 11:00 - 12:00
+  * 11:00 - 12:00
 
 * ~~Sore (**Putera dan Fiqry**)~~ **DONE**
- * 16:00 - 17:00 
+  * 16:00 - 17:00 
 
 * ~~Malam (**Putera dan Fiqry**)~~ **DONE**
- * 18:00 - 19:00
+  * 18:00 - 19:00
 
 
 > **Minggu 06-Okt-2019**
 
 * Pagi (**Azmii**)
- * 07:00 - 8:00
+  * 07:00 - 8:00
 
 * Siang (**Azmii**)
- * 11:00 - 12:00
+  * 11:00 - 12:00
 
 * ~~Sore (**Putera dan Fiqry**)~~ **DONE**
- * 16:00 - 17:00 
+  * 16:00 - 17:00 
 
 * ~~Malam (**Putera dan Fiqry**)~~ **DONE**
- * 18:00 - 19:00
+  * 18:00 - 19:00
  
  > **Senin 07-Okt-2019**
 
 * Pagi (**Zein**)
- * 06:00 - 7:00
+  * 06:00 - 7:00
 
 * Siang (**Zein**)
- * 11:00 - 12:00
+  * 11:00 - 12:00
 
 * Sore (**Putera dan Fiqry**)
- * 16:00 - 17:00 
+  * 16:00 - 17:00 
 
 * Malam (**Putera dan Fiqry**)
- * 18:00 - 19:00
+  * 18:00 - 19:00
  
   > **Selasa 08-Okt-2019**
 
 * Pagi (**Zein**)
- * 07:00 - 8:00
+  * 07:00 - 8:00
 
 * Siang (**Zein**)
- * 11:00 - 12:00
+  * 11:00 - 12:00
 
 * Sore (**Putera dan Fiqry**)
- * 16:00 - 17:00 
+  * 16:00 - 17:00 
 
 * Malam (**Putera dan Fiqry**)
- * 18:00 - 19:00
+  * 18:00 - 19:00
 
  > **Rabu 09-Okt-2019**
 
 * Pagi (**Azmii dan Zein**)
- * 07:00 - 8:00
+  * 07:00 - 8:00
 
 * Siang (**Azmii dan Zein**)
- * 11:00 - 12:00
+  * 11:00 - 12:00
 
 * Sore (**Putera dan Fiqry**)
- * 16:00 - 17:00 
+  * 16:00 - 17:00 
 
 * Malam (**Putera dan Fiqry**)
- * 18:00 - 19:00
+  * 18:00 - 19:00
  
  > **Kamis 10-Okt-2019**
 
 * Pagi (**Azmii dan Zein**)
- * 07:00 - 8:00
+  * 07:00 - 8:00
 
 * Siang (**Azmii dan Zein**)
- * 11:00 - 12:00
+  * 11:00 - 12:00
 
 * Sore (**Putera dan Fiqry**)
- * 16:00 - 17:00 
+  * 16:00 - 17:00 
 
 * Malam (**Putera dan Fiqry**)
- * 18:00 - 19:00
+  * 18:00 - 19:00
  
  
 # Cara Pengambilan Data
