@@ -51,11 +51,11 @@
  
  > **Senin 07-Okt-2019**
 
-* Pagi (**Zein**)
+* ~~Pagi (**Zein**)~~ **DONE**
   * 06:00 - 7:00
 
 * Siang (**Zein**)
-  * 11:00 - 12:00
+  * 12:00 - 13:00
 
 * Sore (**Putera dan Fiqry**)
   * 16:00 - 17:00 
