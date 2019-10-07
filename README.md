@@ -63,7 +63,7 @@
 * Malam (**Putera dan Fiqry**)
   * 18:00 - 19:00
  
-  > **Selasa 08-Okt-2019**
+> **Selasa 08-Okt-2019**
 
 * Pagi (**Zein**)
   * 07:00 - 8:00
