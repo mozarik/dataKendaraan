@@ -25,7 +25,7 @@
 * ~~Pagi (**Azmii dan Zein**)~~ **DONE**
   * 07:00 - 8:00
 
-* Siang (**Azmii dan Zein**)
+* ~~Siang (**Azmii dan Zein**)~~ **DONE**
   * 11:00 - 12:00
 
 * ~~Sore (**Putera dan Fiqry**)~~ **DONE**
@@ -54,7 +54,7 @@
 * ~~Pagi (**Zein**)~~ **DONE**
   * 06:00 - 7:00
 
-* Siang (**Zein**)
+* ~~Siang (**Zein**)~~ **DONE**
   * 13:00 - 14:00
 
 * Sore (**Putera dan Fiqry**)
@@ -65,10 +65,10 @@
  
 > **Selasa 08-Okt-2019**
 
-* Pagi (**Zein**)
+* ~~Pagi (**Zein**)~~
   * 07:00 - 8:00
 
-* Siang (**Zein**)
+* ~~Siang (**Zein**)
   * 11:00 - 12:00
 
 * Sore (**Putera dan Fiqry**)
