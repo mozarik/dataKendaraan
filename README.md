@@ -57,11 +57,11 @@
 * ~~Siang (**Zein**)~~ **DONE**
   * 13:00 - 14:00
 
-* Sore (**Putera dan Fiqry**)
-  * 16:00 - 17:00 
+* ~~Sore (**Putera dan Fiqry**)~~ **DONE**
+  * 15:00 - 16:00 
 
-* Malam (**Putera dan Fiqry**)
-  * 18:00 - 19:00
+* ~~Malam (**Putera dan Fiqry**)~~ **DONE**
+  * 19:30 - 20:30
  
 > **Selasa 08-Okt-2019**
 
@@ -71,10 +71,10 @@
 * ~~Siang (**Zein**)
   * 11:00 - 12:00
 
-* Sore (**Putera dan Fiqry**)
+* ~~Sore (**Putera dan Fiqry**)~~ **DONE**
   * 16:00 - 17:00 
 
-* Malam (**Putera dan Fiqry**)
+* ~~Malam (**Putera dan Fiqry**)~~ **DONE**
   * 18:00 - 19:00
 
  > **Rabu 09-Okt-2019**
@@ -85,10 +85,10 @@
 * Siang (**Azmii dan Zein**)
   * 11:00 - 12:00
 
-* Sore (**Putera dan Fiqry**)
+* ~~Sore (**Putera dan Fiqry**)~~ **DONE**
   * 16:00 - 17:00 
 
-* Malam (**Putera dan Fiqry**)
+* ~~Malam (**Putera dan Fiqry**)~~ **DONE**
   * 18:00 - 19:00
  
  > **Kamis 10-Okt-2019**
@@ -99,10 +99,10 @@
 * Siang (**Azmii dan Zein**)
   * 11:00 - 12:00
 
-* Sore (**Putera dan Fiqry**)
+* ~~Sore (**Putera dan Fiqry**)~~ **DONE**
   * 16:00 - 17:00 
 
-* Malam (**Putera dan Fiqry**)
+* ~~Malam (**Putera dan Fiqry**)~~ **DONE**
   * 18:00 - 19:00
  
  
